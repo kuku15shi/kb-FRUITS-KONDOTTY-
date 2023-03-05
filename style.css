@@ -591,6 +591,16 @@ nav .icon-links {
     background-size: cover;
     background-position: center;
 }
+.products .fruit.strawberry {
+
+    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('img/fruits/watermelon.jpg');
+
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('img/fruits/watermelon.jpg');
+
+    background-size: cover;
+
+    background-position: center;
+
 
 .products .fruit .fruit-text {
     padding: 1rem;
